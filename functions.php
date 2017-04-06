@@ -396,7 +396,7 @@ function twentyseventeen_scripts() {
 	wp_enqueue_style( 'twentyseventeen-style', get_stylesheet_uri() );
 
 	// UCF IT Search.
-	wp_enqueue_script( 'it-search-bar', get_theme_file_uri( '/assets/js/it-search-bar.js' ), array( 'jquery' ));
+	wp_enqueue_script( 'it-search-bar', get_theme_file_uri( '/assets/js/it-search-bar.js' ), array(  ));
 
 
 
