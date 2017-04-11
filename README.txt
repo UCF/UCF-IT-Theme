@@ -10,9 +10,12 @@ Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-rea
 
 == Description ==
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> refs/remotes/origin/develop
 == Copyright ==
 
 Twenty Seventeen WordPress Theme, Copyright 2016 WordPress.org
