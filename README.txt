@@ -1,4 +1,4 @@
-=== UCF IT Theme - 1.0 ===
+=== UCF IT Theme  ===
 Based off of the WordPress twentyseventeen Theme
 Contributors: Joe Raditch, Mikayla Heatherington, Tres Sims, the WordPress team
 Requires at least: WordPress 4.7
