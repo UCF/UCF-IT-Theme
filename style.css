@@ -4581,9 +4581,9 @@ object {
 		margin-bottom: 0;
 	}
 
-	.has-header-image.twentyseventeen-front-page .site-branding,
+	.twentyseventeen-front-page .site-branding,
 	.has-header-video.twentyseventeen-front-page .site-branding,
-	.has-header-image.home.blog .site-branding,
+	.home.blog .site-branding,
 	.has-header-video.home.blog .site-branding {
 		bottom: 0;
 		display: block;
@@ -4594,9 +4594,9 @@ object {
 		width: 100%;
 	}
 
-	.has-header-image.twentyseventeen-front-page .custom-header,
+	.twentyseventeen-front-page .custom-header,
 	.has-header-video.twentyseventeen-front-page .custom-header,
-	.has-header-image.home.blog .custom-header,
+	.home.blog .custom-header,
 	.has-header-video.home.blog .custom-header {
 		display: block;
 		height: auto;
@@ -4607,15 +4607,19 @@ object {
 		position: relative;
 	}
 
-	.twentyseventeen-front-page.has-header-image .custom-header-media,
+	.twentyseventeen-front-page .custom-header-media,
 	.twentyseventeen-front-page.has-header-video .custom-header-media,
-	.home.blog.has-header-image .custom-header-media,
+	.home.blog .custom-header-media,
 	.home.blog.has-header-video .custom-header-media {
-		height: 0;
-		position: relative;
+		bottom: 0;
+		height: auto;
+		left: 0;
+		position: absolute;
+		right: 0;
+		top: 0;
 	}
 
-	.has-header-image:not(.twentyseventeen-front-page):not(.home) .custom-header-media,
+	:not(.twentyseventeen-front-page):not(.home) .custom-header-media,
 	.has-header-video:not(.twentyseventeen-front-page):not(.home) .custom-header-media {
 		bottom: 0;
 		height: auto;
