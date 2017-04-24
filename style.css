@@ -3525,7 +3525,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 /* Footer widgets */
 
 .widget-area{
-	margin-left: 20%;
+	/*margin-left: 20%;*/
 }
 
 .site-footer .widget-area {
@@ -3848,12 +3848,12 @@ h2.widget-title {
 .widget_text {
 	word-wrap: break-word;
 	color:#fff;
-	text-align: center;
+	text-align: left;
 }
 
 .widget_text a {
 	color:#ffcc00;
-	text-align: center;
+	text-align: left;
 	text-decoration: none;
 }
 /* RSS Widget */
@@ -5214,22 +5214,22 @@ object {
 
 	.site-footer {
 		font-size: 14px;
-		font-size: 1.2rem;
+		font-size: 1rem;
 		line-height: 1.6;
 		margin-top: 3em;
 	}
 
 	.site-footer .widget-column.footer-widget-1 {
-		float: left;
-		width: 40%;
+		/*float: left;
+		width: 40%;*/
 
 	}
 .site-footer .widget-column.footer-widget-1 h2{
 color:#FFF;
 }
 	.site-footer .widget-column.footer-widget-2 {
-		float: right;
-		width: 58%;
+		/*float: right;
+		width: 58%;*/
 	}
 	.site-footer .widget-column.footer-widget-2 h2{
 	color:#FFF;
