@@ -2901,10 +2901,10 @@ body:not(.title-tagline-hidden) .site-branding-text {
 	width: auto;
 	top: 50%;
 	padding-bottom: 1px; /* Prevent header from extending beyond the footer */
-	-ms-transform: translateX(-50%) translateY(-50%);
+	-ms-transform: translateX(0px) translateY(0px);
 	-moz-transform: translateX(-50%) translateY(-50%);
 	-webkit-transform: translateX(-50%) translateY(-50%);
-	transform: translateX(-50%) translateY(-50%);
+	transform: translateX(0px) translateY(0px);
 }
 
 .wp-custom-header .wp-custom-header-video-button { /* Specificity prevents .color-dark button overrides */
@@ -4585,7 +4585,7 @@ object {
 		bottom: 0;
 		display: block;
 		left: 0;
-		height: 350px;
+		height: 375px;
 		padding-top: 0;
 		position: absolute;
 		width: 100%;
