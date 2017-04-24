@@ -2953,7 +2953,7 @@ body:not(.title-tagline-hidden) .site-branding-text {
 		left: 0;
 		-o-object-fit: cover;
 		object-fit: cover;
-		top: -150;
+		top: -150px;
 		-ms-transform: none;
 		-moz-transform: none;
 		-webkit-transform: none;
