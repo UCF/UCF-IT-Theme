@@ -2870,7 +2870,7 @@ body:not(.title-tagline-hidden) .site-branding-text {
 	right: 0;
 	top: 0;
 	width: 100%;
-	height: 400px;
+	/*height: 400px;*/
 }
 
 .custom-header-media:before {
