@@ -3534,7 +3534,7 @@ body:not(.twentyseventeen-front-page) .entry-header {
 }
 
 .site-footer .widget-area a{
-	color: #FFF;
+	color: #ffc904;
 	text-decoration: none;
 
 }
@@ -3848,12 +3848,12 @@ h2.widget-title {
 .widget_text {
 	word-wrap: break-word;
 	color:#fff;
-	text-align: left;
+	text-align: center;
 }
 
-.widget_text a {
+.widget_text a{
 	color:#ffcc00;
-	text-align: left;
+
 	text-decoration: none;
 }
 /* RSS Widget */
