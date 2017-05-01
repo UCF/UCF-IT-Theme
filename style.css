@@ -2758,7 +2758,7 @@ body {
 }
 
 .custom-header-media img{
-	/*margin-top: -30%;*/
+	margin-top: -20%;
 }
 
 
@@ -2953,7 +2953,7 @@ body:not(.title-tagline-hidden) .site-branding-text {
 		left: 0;
 		-o-object-fit: cover;
 		object-fit: cover;
-		top: -150px;
+		top: 0;
 		-ms-transform: none;
 		-moz-transform: none;
 		-webkit-transform: none;
