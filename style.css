@@ -4470,12 +4470,12 @@ object {
 
 	.panel-content .wrap {
 		padding-bottom: 2em;
-		padding-top: 3.5em;
+		padding-top: 1.5em;
 	}
 
 	.page-one-column .panel-content .wrap {
 		/*max-width: 740px;*/
-		max-width: 940px;
+		max-width: 1200px;
 	}
 
 	.panel-content .entry-header {
@@ -4933,7 +4933,7 @@ object {
 
 	.panel-content .wrap {
 		/*padding-bottom: 4.5em;*/
-		padding-top: 6em;
+		padding-top: 1.5em;
 	}
 
 	.panel-image {
