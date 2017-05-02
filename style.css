@@ -2178,6 +2178,17 @@ ADDITIONAL STYLING
 
 }
 
+.card-widget{
+	background-color: #f5f8f8;
+	padding: 10px;
+	margin-bottom: 1.5em;
+	min-height: 350px;
+}
+
+.card-widget ul, li{
+list-style: none;
+}
+
 /*.card:nth-child(2) {
 
 }*/
@@ -4991,6 +5002,7 @@ object {
 	.news-title
 	{
 		font-size: .85rem;
+		font-weight:600;
 	}
 
 	.site-content {
