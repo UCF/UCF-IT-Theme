@@ -3025,7 +3025,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 .panel-content .wrap {
 	padding-bottom: 0.5em;
 	/*padding-top: 1.75em;*/
-	padding-top: 2.25em;
+	padding-top: 1.5em;
 }
 
 /* Panel edit link */
@@ -4430,7 +4430,7 @@ object {
 
 	h4 {
 		font-size: 18px;
-		font-size: 1.125rem;
+		font-size: .85rem;
 	}
 
 	h5 {
@@ -4485,6 +4485,7 @@ object {
 	.panel-content .recent-posts .entry-header {
 		margin-bottom: 0;
 	}
+
 
 	/* Blog Index, Archive, Search */
 
@@ -4986,6 +4987,11 @@ object {
 	}
 
 	/* Posts */
+
+	.news-title
+	{
+		font-size: .85rem;
+	}
 
 	.site-content {
 		padding: 5.5em 0 0;

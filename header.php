@@ -25,7 +25,7 @@
 <body <?php body_class(); ?>>
 
 <div id="page" class="site">
-	<?php include_once("/inc/analyticstracking.php") ?>
+	<?php include_once("analyticstracking.php") ?>
 
 	<header id="masthead" class="site-header" role="banner">
 
