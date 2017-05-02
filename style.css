@@ -2179,13 +2179,13 @@ ADDITIONAL STYLING
 }
 
 .card-widget{
-	background-color: #9DB4C0;
+	background-color: #f5f4f4;
 	padding: 10px;
 	margin-bottom: 1.5em;
 	min-height: 100px;
 }
 
-ul.card-widget{
+.card-widget ul, li{
 list-style: none;
 }
 
