@@ -13,7 +13,7 @@
 get_header(); ?>
 
 <div class="wrap">
-	<script>alert("404 - This page cannot be found!");</script>
+	
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
