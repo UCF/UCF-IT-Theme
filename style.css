@@ -2178,6 +2178,17 @@ ADDITIONAL STYLING
 
 }
 
+.card-widget{
+	background-color: #9DB4C0;
+	padding: 10px;
+	margin-bottom: 1.5em;
+	min-height: 100px;
+}
+
+ul.card-widget{
+list-style: none;
+}
+
 /*.card:nth-child(2) {
 
 }*/
