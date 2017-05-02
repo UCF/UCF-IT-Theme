@@ -4486,6 +4486,7 @@ object {
 		margin-bottom: 0;
 	}
 
+
 	/* Blog Index, Archive, Search */
 
 	.taxonomy-description {
@@ -4986,6 +4987,11 @@ object {
 	}
 
 	/* Posts */
+
+	.news-title
+	{
+		font-size: 1rem;
+	}
 
 	.site-content {
 		padding: 5.5em 0 0;
