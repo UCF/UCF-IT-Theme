@@ -2182,7 +2182,7 @@ ADDITIONAL STYLING
 	background-color: #f5f8f8;
 	padding: 10px;
 	margin-bottom: 1.5em;
-	min-height: 350px;
+	min-height: 360px;
 }
 
 .card-widget ul, li{
@@ -2473,7 +2473,7 @@ a:hover .nav-title,
 }
 
 .navigation-top .wrap {
-	max-width: 1000px;
+	max-width: 1200px;
 	padding: 0;
 }
 
@@ -4679,7 +4679,7 @@ object {
 	}
 
 	.navigation-top .wrap {
-		max-width: 1000px;
+		max-width: 1200px;
 		/* The font size is 14px here and we need 50px padding in ems */
 		padding: 0.75em 3.4166666666667em;
 	}
