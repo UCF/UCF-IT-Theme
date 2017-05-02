@@ -3025,7 +3025,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 .panel-content .wrap {
 	padding-bottom: 0.5em;
 	/*padding-top: 1.75em;*/
-	padding-top: 1.5;
+	padding-top: 1.5em;
 }
 
 /* Panel edit link */
@@ -4933,7 +4933,7 @@ object {
 
 	.panel-content .wrap {
 		/*padding-bottom: 4.5em;*/
-		padding-top: 6em;
+		padding-top: 1.5em;
 	}
 
 	.panel-image {
