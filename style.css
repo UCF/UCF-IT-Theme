@@ -2179,10 +2179,10 @@ ADDITIONAL STYLING
 }
 
 .card-widget{
-	background-color: #f5f4f4;
+	background-color: #f5f8f8;
 	padding: 10px;
 	margin-bottom: 1.5em;
-	min-height: 100px;
+	min-height: 350px;
 }
 
 .card-widget ul, li{
@@ -5002,6 +5002,7 @@ object {
 	.news-title
 	{
 		font-size: .85rem;
+		font-weight:600;
 	}
 
 	.site-content {
