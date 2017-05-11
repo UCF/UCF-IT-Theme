@@ -5563,3 +5563,7 @@ color:#FFF;
   border-style: solid;
   color: #333;
 }
+
+.panel-grid-cell, .widget-title {    border-bottom: 1px solid #bbb;
+    margin-bottom: .5em;
+    padding-bottom: 5px;}
