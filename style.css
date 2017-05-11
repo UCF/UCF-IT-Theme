@@ -3163,7 +3163,7 @@ body.page:not(.twentyseventeen-front-page) .entry-title {
 
 .single .byline,
 .group-blog .byline {
-	display: inline;
+	display: none;
 }
 
 .pagination,
