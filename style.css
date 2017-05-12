@@ -2863,7 +2863,7 @@ body:not(.title-tagline-hidden) .site-branding-text {
 .has-header-image.home.blog .custom-header,
 .has-header-video.home.blog .custom-header {
 	display: table;
-	height: 360px;
+	height: 357px;
 	width: 100%;
 	/*max-height: 100%;*/
 	overflow: hidden;
@@ -2984,7 +2984,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 .has-header-image.home.blog .site-branding,
 .has-header-video.home.blog .site-branding {
 	display: table-cell;
-	height: 88%;
+	height: 87%;
 	vertical-align: bottom;
 	margin-bottom: -2%!important;
 }
