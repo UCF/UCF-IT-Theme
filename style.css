@@ -2948,7 +2948,7 @@ body:not(.title-tagline-hidden) .site-branding-text {
 	bottom: 0;
 	position: absolute;
 	top: auto;
-	-ms-transform: translateX(-50%) translateY(70%);
+	-ms-transform: translateX(-50%) translateY(620px);
 	-moz-transform: translateX(-50%) translateY(0);
 	-webkit-transform: translateX(-50%) translateY(0);
 	transform: translateX(-50%) translateY(620px);
