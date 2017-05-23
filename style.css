@@ -2951,7 +2951,7 @@ body:not(.title-tagline-hidden) .site-branding-text {
 	-ms-transform: translateX(-994px) translateY(656px);
 	-moz-transform: translateX(-50%) translateY(0);
 	-webkit-transform: translateX(-50%) translateY(0);
-	transform: translateX(-994px) translateY(656px);
+	transform: translateX(-50%) translateY(45%);
 }
 
 /* For browsers that support 'object-fit' */
