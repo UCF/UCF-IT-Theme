@@ -2179,7 +2179,7 @@ ADDITIONAL STYLING
 }
 
 .card-widget{
-	background-color: #f5f8f8;
+	background-color: #faf8f8;
 	padding: 10px;
 	margin-bottom: 1.5em;
 	min-height: 360px;
@@ -2863,7 +2863,7 @@ body:not(.title-tagline-hidden) .site-branding-text {
 .has-header-image.home.blog .custom-header,
 .has-header-video.home.blog .custom-header {
 	display: table;
-	height: 350px;
+	height: 357px;
 	width: 100%;
 	/*max-height: 100%;*/
 	overflow: hidden;
@@ -2948,10 +2948,10 @@ body:not(.title-tagline-hidden) .site-branding-text {
 	bottom: 0;
 	position: absolute;
 	top: auto;
-	-ms-transform: translateX(-50%) translateY(70%);
+	-ms-transform: translateX(-994px) translateY(656px);
 	-moz-transform: translateX(-50%) translateY(0);
 	-webkit-transform: translateX(-50%) translateY(0);
-	transform: translateX(-50%) translateY(70%);
+	transform: translateX(-994px) translateY(656px);
 }
 
 /* For browsers that support 'object-fit' */
@@ -2984,7 +2984,7 @@ body:not(.has-header-image):not(.has-header-video) .custom-header-media {
 .has-header-image.home.blog .site-branding,
 .has-header-video.home.blog .site-branding {
 	display: table-cell;
-	height: 75%;
+	height: 87%;
 	vertical-align: bottom;
 	margin-bottom: -2%!important;
 }
@@ -3163,7 +3163,7 @@ body.page:not(.twentyseventeen-front-page) .entry-title {
 
 .single .byline,
 .group-blog .byline {
-	display: inline;
+	display: none;
 }
 
 .pagination,
@@ -5006,7 +5006,7 @@ object {
 	}
 
 	.site-content {
-		padding: 5.5em 0 0;
+		padding: 1.5em 0 0;
 	}
 
 	.single-post .entry-title,
@@ -5563,3 +5563,7 @@ color:#FFF;
   border-style: solid;
   color: #333;
 }
+
+.panel-grid-cell .widget-title {    border-bottom: 1px solid #bbb;
+    margin-bottom: .5em;
+    padding-bottom: 5px;}
