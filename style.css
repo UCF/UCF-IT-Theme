@@ -2748,7 +2748,7 @@ body {
 	clear: none;
 	/*font-size: 24px;
 	font-size: 2rem;*/
-	font-size: 48px;
+	font-size: 36px;
 	font-weight: 800;
 	line-height: 1.25;
 	/*letter-spacing: 0.08em;*/
@@ -4656,7 +4656,7 @@ object {
 	.site-title {
 		/*font-size: 36px;
 		font-size: 2.25rem;*/
-		font-size: 46px;
+		font-size: 36px;
 		font-size: 3.375rem;
 	}
 
@@ -5484,7 +5484,7 @@ color:#FFF;
 	}
 
 	.site-title {
-		font-size: 25pt;
+		font-size: 48pt;
 	}
 
 	.site-description {
