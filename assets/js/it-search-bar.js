@@ -24,7 +24,7 @@ jQuery( document ).ready(function() {
 
        navStrin = navStrin.replace(/\ /g, '%20');
 
-       window.location.href = navStrin;
+       window.open(navStrin, "UCF IT Service Portal - Service Portal");
      }
 
 });
